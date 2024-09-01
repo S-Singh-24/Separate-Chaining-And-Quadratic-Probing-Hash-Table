@@ -1,0 +1,5 @@
+﻿  blockchain.cpp
+C:\Users\sahaj\source\repos\M08Blockchain\blockchain.cpp(9,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  M08Blockchain.vcxproj -> C:\Users\sahaj\source\repos\M08Blockchain\x64\Debug\M08Blockchain.exe

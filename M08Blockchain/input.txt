@@ -1,0 +1,17 @@
+Initial Blockchain:
+Block Number: 0
+Nonce: 1722041803
+Data: Genesis Block
+Previous Hash: 0
+Hash: 475674282
+
+Validating chain... Valid
+Invalid block index.
+Blockchain after hacking block 1:
+Block Number: 0
+Nonce: 1722041803
+Data: Genesis Block
+Previous Hash: 0
+Hash: 475674282
+
+Validating chain... Valid
